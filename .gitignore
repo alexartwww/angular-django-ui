@@ -43,3 +43,7 @@ ui/e2e/*.map
 .DS_Store
 Thumbs.db
 
+# Python
+*.pyc
+.coverage
+*.py.orig
