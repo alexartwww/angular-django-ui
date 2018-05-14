@@ -1,6 +1,8 @@
-# angular-django-ui
+# Angular Django UI
 
-```#!bash
+Goals and strategic fit for UI:
 
-sudo apt-get install virtualenv
-```
+- Modern tech: Angular, Material Design, Django, DRF
+- Easy to support
+
+You awesome!
