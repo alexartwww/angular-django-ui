@@ -34,6 +34,7 @@ ui/npm-debug.log
 ui/yarn-error.log
 ui/testem.log
 ui/typings
+ui/package-lock.json
 
 # e2e
 ui/e2e/*.js
