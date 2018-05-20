@@ -24,6 +24,10 @@ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt install -y nodejs
 sudo npm i -g npm
 npm i
+
+# Install uwsgi
+sudo apt install uwsgi-core
+
 ```
 
 You awesome!

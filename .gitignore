@@ -43,6 +43,7 @@ ui/e2e/*.map
 # System Files
 .DS_Store
 Thumbs.db
+db.sqlite3
 
 # Python
 *.pyc
