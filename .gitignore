@@ -35,6 +35,7 @@ frontend/yarn-error.log
 frontend/testem.log
 frontend/typings
 frontend/package-lock.json
+frontend/node_modules
 
 # e2e
 frontend/e2e/*.js
